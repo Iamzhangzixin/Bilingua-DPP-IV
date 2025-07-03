@@ -181,10 +181,10 @@ For issues or questions, please open an issue on [GitHub](https://github.com/Iam
 If you use Bilingua-DPP-IV in your research, please cite this repository:
 
 ```bibtex
-@misc{zhang2024bilingua,
+@misc{zhang2025bilingua,
   title={Bilingua-DPP-IV: A Bimodal Deep Learning Framework for Predicting DPP-IV Inhibitory Peptides},
   author={Zhang, Zhixing and Yu, Qiule and Yang, Chen and Duan, Hao and Fang, Jiajiao and Xu, Jiahao and Gong, Changda and Li, Weihua and Liu, Guixia and Tang, Yun},
-  year={2024},
+  year={2025},
   url={https://github.com/Iamzhangzixin/Bilingua-DPP-IV},
   note={GitHub repository}
 }
